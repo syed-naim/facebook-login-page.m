@@ -10,3 +10,10 @@
     align-items: center;
     font-family: sans-serif;
 }
+.form {
+    width: 400px;
+    background-color: #eee;
+    min-height: 70vh;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 3);
+    border-radius: 5px;
+}
